@@ -1,5 +1,8 @@
 _repo: The-Lone-Trail_67823
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67823-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Allan, Luke
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '31167'
     url: http://www.gutenberg.org/2009/agents/31167
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67823#The-Lone-Trail
 gutenberg_issued: '2022-04-13'
 identifiers:
   gutenberg: '67823'
